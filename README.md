@@ -20,24 +20,25 @@
 
 ## 🙋‍♂️ About Me
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ```javascript
 const aman = {
-    pronouns: "he" | "him",
+    name: "Aman Singh",
+    role: "Fullstack Developer",
     location: "India 🇮🇳",
-    currentFocus: ["Personal Portfolio", "Doctor's Website"],
-    learning: ["C++", "DSA", "JavaScript", "React", "Node.js"],
-    askMeAbout: ["Web Dev", "Tech", "Problem Solving"],
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+    available: true,
+    skills: ["Web Dev", "DSA", "Problem Solving"],
+    motto: "Code. Create. Innovate. Repeat! 🚀"
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🔭 Currently working on **Personal Portfolio & Doctor's Website**
-- 🌱 Learning **C++, DSA, JavaScript, React & Node.js**
-- 👯 Looking to collaborate on **Development Projects**
-- 💬 Ask me about **My Skills and Projects**
-- ⚡ Fun fact: **I turn coffee into code! ☕**
+🔭 **Currently Building:** Personal Portfolio & Doctor's Website  
+🌱 **Leveling Up:** C++, DSA, React & Node.js  
+👯 **Open To:** Exciting Development Collaborations  
+💡 **Ask Me About:** Web Development & Problem Solving  
+🎯 **2026 Goals:** Master MERN Stack & Contribute to Open Source  
+⚡ **Fun Fact:** I mass-produce `console.log()` statements and call it debugging! 😄
 
 <br clear="both">
 
@@ -47,20 +48,35 @@ const aman = {
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,php,java,python" />
 </p>
 
-### 🚀 Frameworks & Libraries
+### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,jquery" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </p>
+
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | C++, JavaScript, C, PHP, Java, Python |
+| **Frontend** | HTML, CSS, React, Tailwind CSS, GSAP, jQuery |
+| **Backend** | Node.js, Express.js, Mongoose |
+| **Databases** | MongoDB, MySQL |
+| **Tools** | Git, GitHub, Postman, Figma, Canva |
 
 </div>
 
